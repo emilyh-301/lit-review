@@ -3,7 +3,7 @@ COMP 597 NLP Lit Review, 3/30/23
 It was hard to find papers about translating ASL to other sign languages
 
 # Papers from 2020 - 2023
-1. Elsayed, Eman, and Doaa Fathy. “Semantic Deep Learning to Translate Dynamic Sign Language.” International Journal of Intelligent Engineering and Systems, vol. 14, no. 1, 2021, \\ https://doi.org/https://inass.org/2021/2021022830.pdf. 
+1. Elsayed, Eman, and Doaa Fathy. “Semantic Deep Learning to Translate Dynamic Sign Language.” International Journal of Intelligent Engineering and Systems, vol. 14, no. 1, 2021, https://inass.org/2021/2021022830.pdf. 
 2. Haigh, Emily, and Anthony An. “American Sign Language Classification.” Penn State Harrisburg, 2022. https://github.com/emilyh-301/ASL_classification/blob/master/CMPSC_445_Final_Paper.pdf
 3. S. Z. Gurbuz et al., "American Sign Language Recognition Using RF Sensing," in IEEE Sensors Journal, vol. 21, no. 3, pp. 3763-3775, 1 Feb.1, 2021, doi: 10.1109/JSEN.2020.3022376. https://ieeexplore.ieee.org/abstract/document/9187644
 
